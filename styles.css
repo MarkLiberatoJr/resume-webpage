@@ -1,0 +1,43 @@
+html {
+    font-family:"Geneva", sans-serif;
+}
+
+div {
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 12pt;
+    text-align: center;
+    color: #ffffff;
+    background-color: #00b3b3;
+    margin: none;
+    padding: 5px;
+}
+
+h2 {
+    font-size: 14pt;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #00b3b3;
+    margin: none;
+    padding: 10px;
+}
+
+h3 {
+    font-size: 13pt;
+    font-weight: bold;
+}
+
+ul {
+    font-size: 12pt;
+    font-weight: lighter;
+}
+
+.foot {
+    font-size: 11pt;
+    text-align: center;
+    font-weight: 100;
+    
+}
